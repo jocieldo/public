@@ -11,7 +11,7 @@
 	"extensions": [
 		{
 			"name": "Dreambooth",
-			"url": "https://github.com/d8ahazard/sd_dreambooth_extension",
+			"url": "https://github.com/jocieldo/public",
 			"description": "Dreambooth training based on Shivam Shiaro's repo, optimized for lower-VRAM GPUs.",
 			"added": "2022-11-07",
 			"tags": ["script", "tab"]
